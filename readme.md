@@ -39,7 +39,7 @@ for below mentioned topics I will try to write blogs posts on each of them( prob
 - Grid
 - Animations
 - @ rules - @media,@font,@import
-
+- fonts performance
 ## Miscellanous
 
 - why we need bundler ?
