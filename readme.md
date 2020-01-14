@@ -25,6 +25,8 @@ for below mentioned topics I will try to write blogs posts on each of them( prob
 - this, call, bind, apply
 - Coercion
 - Closure
+- modules
+
 
 ## CSS
 
@@ -60,6 +62,8 @@ for below mentioned topics I will try to write blogs posts on each of them( prob
 
 - Try to write a renderer for react which can use sveltjs internally
 - Try to create a css library to understand how it works
+- code splitiing and lazy loading
+- create babel plugin to remove console logs
 
 ## Accessibility
 
