@@ -1,0 +1,10 @@
+[data-star] {
+  position: relative;
+  font-size: 60px;
+}
+[data-star].active::before {
+  /* solid star unicode */
+  content: "\2605";
+  position: absolute;
+  color: orange;
+}
