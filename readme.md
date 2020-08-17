@@ -2,9 +2,7 @@
 
 ## Problem Solving
 
-(need to add resources for problem solving)
-
-for below mentioned topics I will try to write blogs posts on each of them( probaby two in a week).
+Solve top interview questions(150 questions) and top 100 liked questions on leetcode.
 
 ## How Browser works
 
@@ -54,13 +52,16 @@ for below mentioned topics I will try to write blogs posts on each of them( prob
 - what are they?
 - cross window, iframe, worker, service workers communication
 
-### DOM manipulation with pure JS
+### DOM manipulation with pure JS and Design questions
 
-- Building a chess like game with pure js
+  - [Design a star-rating component](https://blog.yashrathore.in/design-a-star-rating-component-ckdygv1x1061hids10u2i62m7)
+  - Design a carousal component
+  - Design a dialog componet
+  - Design a tic-tac-toe game
+  - Design a snake ladder game
 
 ### Internals of Library like React, Styled Components
-
-- Try to write a renderer for react which can use sveltjs internally
+- Create a simulation of how react hooks works under the hood.
 - Try to create a css library to understand how it works
 - code splitiing and lazy loading
 - create babel plugin to remove console logs
